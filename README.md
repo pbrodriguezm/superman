@@ -14,9 +14,15 @@ APK para Android TV / TV Box (Android 5.0 o superior).
 https://raw.githubusercontent.com/pbrodriguezm/superman/main/XuperTV-GO.apk
 ```
 
-SHA-256: `40247189a9eafb77955f50d0ee80db81cd222ca8bf6d46e033cf7f9f8dc14e7f`
+SHA-256: `6cad92411d8c7ea77d09f691fa5a8e76af5d73d8e64935a9dfff5247255e474d`
 
 ## Novedades
+
+**v3**
+- Al entrar por primera vez a Películas se abre "Elige 5 categorías que te gusten"; tus favoritas aparecen primero (con ★) en la lista de categorías.
+- Botón **♥ Mis favoritas** en la barra superior para volver a elegirlas.
+- Desde las películas de una categoría, ARRIBA lleva directo a **★ Por puntaje** (sin perder la categoría).
+- Búsqueda por voz: el texto reconocido se escribe en el buscador y busca automáticamente.
 
 **v2**
 - Películas por categoría: botones **★ Por puntaje** y **Filtrar** en la barra superior (ya no se pierde la categoría seleccionada).
