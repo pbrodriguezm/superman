@@ -14,9 +14,14 @@ APK para Android TV / TV Box (Android 5.0 o superior).
 https://raw.githubusercontent.com/pbrodriguezm/superman/main/XuperTV-GO.apk
 ```
 
-SHA-256: `b54af549b8107d152a6de4d03242a411fdfa2da6c95390a371de915ded67431a`
+SHA-256: `9ce98599c3ca2d24f0b5b9c8a456cc37ae5b86ec79fb617f7e63f275ccbfe29e`
 
 ## Novedades
+
+**v7**
+- **Visualizer a pantalla completa** con 6 modos (Espectro, Ondas, Partículas, Círculo, Retro, Noche) que reaccionan al sonido; los controles se ocultan a los 5 s.
+- Radios: reproductor con iconos nuevos (sin volumen), más márgenes, filas que no se salen hacia el menú, la radio se detiene al cambiar de pantalla.
+- Menú izquierdo con degradado de negro a transparente.
 
 **v6**
 - Nueva sección **RADIOS** (debajo de TV): radios en vivo del Perú y el mundo, por categoría y por país, con reproductor, favoritas y visualizer.
