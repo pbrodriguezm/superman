@@ -1,0 +1,12 @@
+{
+  "info": "Banners del carrusel de la seccion TV. Copia el bloque de 'ejemplo' dentro de 'banners'. imagen = URL https de una imagen ancha (ideal 1920x512 o 1600x533). canal = codigo o parte del nombre del canal (opcional). desde/hasta = AAAA-MM-DD (opcional).",
+  "ejemplo": {
+    "imagen": "https://ejemplo.com/mi-banner.jpg",
+    "titulo": "Gran final en vivo",
+    "subtitulo": "Hoy 8:00 pm",
+    "canal": "america",
+    "desde": "2026-11-01",
+    "hasta": "2026-11-30"
+  },
+  "banners": []
+}
