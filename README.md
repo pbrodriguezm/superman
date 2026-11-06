@@ -14,9 +14,13 @@ APK para Android TV / TV Box (Android 5.0 o superior).
 https://raw.githubusercontent.com/pbrodriguezm/superman/main/XuperTV-GO.apk
 ```
 
-SHA-256: `b09ce951e834268a8a4a5a156255da7ef446755e86c01f4ac55fb366e46577b4`
+SHA-256: `b54af549b8107d152a6de4d03242a411fdfa2da6c95390a371de915ded67431a`
 
 ## Novedades
+
+**v6**
+- Nueva sección **RADIOS** (debajo de TV): radios en vivo del Perú y el mundo, por categoría y por país, con reproductor, favoritas y visualizer.
+- El botón ♥ de la barra superior ya abre tus categorías favoritas directamente.
 
 **v5**
 - Botón **♥** en la barra superior (junto a Buscar) para cambiar tus 5 categorías favoritas; al guardar se actualiza la recomendación.
