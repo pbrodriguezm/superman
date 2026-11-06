@@ -14,9 +14,12 @@ APK para Android TV / TV Box (Android 5.0 o superior).
 https://raw.githubusercontent.com/pbrodriguezm/superman/main/XuperTV-GO.apk
 ```
 
-SHA-256: `7edae3cda656d8c6235e9f69f9d1cfcd9db2932a3f32086ae77c624b1c4a8760`
+SHA-256: `d4bc018cff424914022ec658e536fc5131ef29a54150d93304c4fa7ad5bc9446`
 
 ## Novedades
+
+**v7.3**
+- Logo X TV GO definitivo, limpio (barra superior, inicio, banner e ícono).
 
 **v7.2**
 - Nuevo logo **X TV GO** (barra superior un poco más pequeña, pantalla de inicio y banner).
