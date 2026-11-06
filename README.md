@@ -14,9 +14,13 @@ APK para Android TV / TV Box (Android 5.0 o superior).
 https://raw.githubusercontent.com/pbrodriguezm/superman/main/XuperTV-GO.apk
 ```
 
-SHA-256: `14f1be007a852e8625ec93beb6d1f74b565c7ec7ff5c0a44ecc93f32ca4a9c5d`
+SHA-256: `9b4ad42a59bd806be6d28d3c3eaf8963385953bcaade3622cda1086744f0701d`
 
 ## Novedades
+
+**v4.3**
+- Recomendado por IA: al elegir una película se abre y reproduce correctamente.
+- La fila tiene su propio espacio y se quitó el subtítulo.
 
 **v4.2**
 - Recomendado por IA en la pestaña Películas, solo de tus 5 categorías y solo películas que no has visto.
