@@ -14,9 +14,12 @@ APK para Android TV / TV Box (Android 5.0 o superior).
 https://raw.githubusercontent.com/pbrodriguezm/superman/main/XuperTV-GO.apk
 ```
 
-SHA-256: `9ce98599c3ca2d24f0b5b9c8a456cc37ae5b86ec79fb617f7e63f275ccbfe29e`
+SHA-256: `5ebffa5ae227c4fb9192fb969b07987ad830852902f70dca553cffff82c9053e`
 
 ## Novedades
+
+**v7.1**
+- Radios: volver al menú con IZQUIERDA o ATRÁS expande el menú sin mover la página; controles del reproductor centrados.
 
 **v7**
 - **Visualizer a pantalla completa** con 6 modos (Espectro, Ondas, Partículas, Círculo, Retro, Noche) que reaccionan al sonido; los controles se ocultan a los 5 s.
